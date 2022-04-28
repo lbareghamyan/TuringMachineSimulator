@@ -12,4 +12,4 @@ In ***debug*** mode the program supports following commands
 
 **Note that a character corresponding to the blank symbol is 'B'**
 
-**'('  ')'  ',' and '|' are special characters and cannot be used as alphabet symbols.**
+**'('  ')'  ',' '_' and '|' are special characters and cannot be used as alphabet symbols.**
